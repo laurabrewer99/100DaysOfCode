@@ -1,0 +1,26 @@
+<style>
+	<link href="https://www.freecodecamp.org/laurabrewer99" rel="stylesheet" type="text/css">
+body {
+  background-color: black;
+}
+
+	</style>
+	<h2> What I Have Learned so far in CSS </h2>
+	<main>
+		<p class="red-text">Click here to view more
+			<a href="#"> my FreeCodeCamp profile.</a>.
+		</p>
+		<img src="https://unsplash.com/photos/95YRwf6CNw8">
+			<p>
+				<strong> I'm going to be adding to this page as I continue learning. </strong>
+			</p>
+		    <hr>
+					<body>
+						<p>Learning Code is a challenging, but fun process. I eventually want to learn C#, Python, and Javascript!</p>
+						<p>So far I have learned:</p>
+						<ul>
+							<li>Basics of HTML & HTML5</li>
+							<li>Basics of CSS</li>
+							<li>Creating elements</li>
+						</ul>
+					</body>
